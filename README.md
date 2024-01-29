@@ -17,7 +17,7 @@ There are many films - and every year there are more and more. The more of them,
 
 ## Database diagram
 
-<img alt="Database diagram" src="diagram.png">
+<img alt="Database diagram" src="ER-диаграмма.png">
 
 ## Technologies Used
 
@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
 
-   `git clone https://github.com/kirpinev/java-filmorate.git`
+   `git clone https://github.com/23mser/java-filmorate.git`
 
 2. Change the current directory to the project root:
 
